@@ -18,7 +18,9 @@ Release Notes & Capabilities
 
 ## Example Chat
 
-```You: Hi
+```
+You: Hi
+
 GenA1: ng to emulate the reasonsebing more efficient, scausidg. Thim triight relesting might say,  It s a integroenuity en some of a welcoming overwhat."
 * **Agreement (Possible):** It s your day going? 
 * "Hi! What are you up to this what are you re working on.
@@ -53,12 +55,16 @@ If you want to download Loader.py directly from the terminal, use one of the com
 
 Mac/Linux:
 
-`curl -O [https://raw.githubusercontent.com/RlabsLLC/GenAI/main/Loader.py](https://raw.githubusercontent.com/RlabsLLC/GenAI/main/Loader.py)`
+```
+curl -O [https://raw.githubusercontent.com/RlabsLLC/GenAI/main/Loader.py](https://raw.githubusercontent.com/RlabsLLC/GenAI/main/Loader.py)
+```
 
 
 Windows (PowerShell):
 
-`Invoke-WebRequest -Uri "[https://raw.githubusercontent.com/RlabsLLC/GenAI/main/Loader.py](https://raw.githubusercontent.com/RlabsLLC/GenAI/main/Loader.py)" -OutFile "Loader.py"`
+```
+Invoke-WebRequest -Uri "[https://raw.githubusercontent.com/RlabsLLC/GenAI/main/Loader.py](https://raw.githubusercontent.com/RlabsLLC/GenAI/main/Loader.py)" -OutFile "Loader.py"
+```
 
 
 3. Start Chatting!
