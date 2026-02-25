@@ -2,7 +2,7 @@
 
 Custom GGUF AI models built completely from scratch. These models dynamically grow in size during training and come in various parameter sizes.
 
-## Latest Version: GenA1_18M.gguf
+## Latest Version: GenA1_63M.gguf
 
 Release Notes & Capabilities
 
@@ -10,13 +10,13 @@ Release Notes & Capabilities
 
 - Formatting: Understands and generates basic Markdown formatting (like bolding and bullet points).
 
-- Micro-Sized: Incredibly lightweight at ~70MB (18 Million Parameters).
+- Mini-Sized: Incredibly lightweight at ~250MB (63 Million Parameters).
 
-- Custom Architecture: Uses a custom dynamically-grown transformer architecture (Note: This means it does not run in standard Ollama environments).
+- Custom Architecture: Uses a custom dynamically-grown transformer architecture **(Note: This means it does not run in standard Ollama environments).**
 
 - Contextual: Has a growing understanding of the user's prompt and intent.
 
-## Example Chat
+## Example Chat (GenA1 18M)
 
 ```
 You: Hi
