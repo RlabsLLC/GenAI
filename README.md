@@ -74,4 +74,4 @@ Open your terminal in the folder where you downloaded the files and run:
 `python Loader.py`
 
 
-*When prompted, just type the name of the .gguf file you downloaded, press enter, and say hello! Models are in the /Models Dir*
+*When prompted, just type the name of the .gguf file you downloaded, press enter, and say hello! Models are on the release page*
