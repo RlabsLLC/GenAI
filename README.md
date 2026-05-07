@@ -10,7 +10,7 @@ Release Notes & Capabilities
 
 - Formatting: Understands and generates basic Markdown formatting (like bolding and bullet points).
 
-- Mini-Sized: Incredibly lightweight at ~250MB (63 Million Parameters).
+- Mini-Sized: Incredibly lightweight at ~250MB (63 Million Parameters [Q8] ).
 
 - Custom Architecture: Uses a custom dynamically-grown transformer architecture **(Note: This means it does not run in standard Ollama environments).**
 
